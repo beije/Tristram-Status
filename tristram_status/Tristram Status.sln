@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tristram Status", "Tristram Status\Tristram Status.csproj", "{C6DC8DFC-A889-44D5-8C30-0D4E80033FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DC8DFC-A889-44D5-8C30-0D4E80033FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DC8DFC-A889-44D5-8C30-0D4E80033FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DC8DFC-A889-44D5-8C30-0D4E80033FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DC8DFC-A889-44D5-8C30-0D4E80033FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
